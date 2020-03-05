@@ -1,0 +1,12 @@
+Mayo,Dressing / Mayo,1,2.99,1
+Green Tea,Tea,6,1.99,2
+Lucky Charms,Cereal,7,3.99,1
+Admiral Ackbar Cereal,Cereal,7,4.99,1
+Tide Pods,Laundry,9,1.99,4
+Spam,Can Meat,1,2.99,3
+Spam,Can Meat,1,3.99,3
+Honey Wheat,Pancake Mix,7,1.99,1
+Clorox,Bleach,9,6.99,1
+Velveeta,Cheese,13,3.99,2
+I Can't Believe It's Not,Butter,13,2.99,2
+Uncle Bens,Rice,2,1.99,1
